@@ -1,8 +1,6 @@
 # Chat App/ Call video WebRTC Example
+<img src="https://i.imgur.com/3xVHOWy.jpg" width=215>    <img src="https://i.imgur.com/lfw4rx9.jpg" width=200> <img src="https://i.imgur.com/3BRYZoj.jpg" width=215>    <img src="https://i.imgur.com/syCR04w.jpg" width=215>
 
-![](https://i.imgur.com/3xVHOWy.jpg =270x)     ![](https://i.imgur.com/lfw4rx9.jpg =250x)
-
-![](https://i.imgur.com/3BRYZoj.jpg =250x)     ![](https://i.imgur.com/syCR04w.jpg =250x)
 
 
 # Install
